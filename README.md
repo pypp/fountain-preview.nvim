@@ -1,4 +1,4 @@
-# nvim-fountain-preview
+# fountain-preview.nvim
 
 A Neovim plugin that provides a live HTML preview of [Fountain](https://fountain.io) screenplays in your browser, with real-time updates and synchronized scrolling as you edit.
 
@@ -21,14 +21,14 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "netanel/nvim-fountain-preview",
+  "pypp/fountain-preview.nvim",
 }
 ```
 
 Using [packer.nvim](https://github.com/wbthomason/packer.nvim):
 
 ```lua
-use "netanel/nvim-fountain-preview"
+use "pypp/fountain-preview.nvim"
 ```
 
 ## Usage
