@@ -91,7 +91,3 @@ require("fountain_preview").setup({
 2. The browser connects and keeps an open [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events) stream
 3. On each edit, the Fountain buffer is parsed to HTML and pushed to the browser via SSE
 4. Cursor movement sends scroll-only events so the browser viewport stays in sync with the editor
-
-## License
-
-MIT
