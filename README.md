@@ -2,6 +2,8 @@
 
 A Neovim plugin that provides a live HTML preview of [Fountain](https://fountain.io) screenplays in your browser, with real-time updates and synchronized scrolling as you edit.
 
+<video src="assets/demo.mp4" controls></video>
+
 ## Features
 
 - **Live preview** — renders your screenplay in a browser as you type
